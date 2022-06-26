@@ -1714,7 +1714,7 @@
     (property "Sheet name" "WM8731 Input Output" (id 0) (at 181.61 140.2584 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 181.61 155.5246 0)
+    (property "Sheet file" "WM8731 Input Output.kicad_sch" (id 1) (at 181.61 155.5246 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
