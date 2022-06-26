@@ -422,6 +422,10 @@
     [
       "a32493fb-445b-4a89-b45d-014b5edf53bb",
       "ESP32"
+    ],
+    [
+      "05b1227d-17d8-4a41-925d-fd59fdc59681",
+      "WM8731 Input Output"
     ]
   ],
   "text_variables": {}
